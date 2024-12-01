@@ -1,0 +1,1 @@
+# cypress-click-ai-test
